@@ -1,3 +1,4 @@
+Jongwon Lee
 1. Within a GitHub action that runs whenever code is pushed. Using GitHub Action ensures that all changes are consistent and repeatable, which helps catch bugs before they get merged into the main branch. 
 2. No
 3. Navigation mode analyzes the page load process—from the initial request to when the page renders. It evaluates how quickly and efficiently a user can interact with the page once it loads. Snapshot mode captures the current state of the page at a given moment without simulating a page load. It’s mainly used to find accessibility or layout issues in a static view.
